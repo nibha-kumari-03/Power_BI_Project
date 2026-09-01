@@ -46,6 +46,24 @@ Key Insights
 - Rating alone does not always indicate an app's popularity.
 - App size and category can be compared to understand app characteristics.
 
+Project Structure 
+- Google Play Store Data Analysis – Power BI
+│
+├── Photos_Google Playstore 
+│
+├── Google Play Store.pbix
+│
+└── README.md
+|
+└──googleplaystore dataset.csv
+
+
+---
+
+
+
+
+
 Skills Demonstrated
 
 Data Cleaning | Data Analysis | Power BI | Power Query | DAX | Data Visualization | Dashboard Design

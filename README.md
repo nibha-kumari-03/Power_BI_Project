@@ -47,6 +47,9 @@ The dashboard includes:
 - App size and category can be compared to understand app characteristics.
 
 ## Project Structure 
+
+```text
+
 - Google Play Store Data Analysis – Power BI -
 │
 ├── Photos_Google Playstore 

@@ -50,7 +50,7 @@ The dashboard includes:
 
 ```text
 
-- Google Play Store Data Analysis – Power BI -
+- Google Play Store Data Analysis – Power BI 
 │
 ├── Photos_Google Playstore 
 │
